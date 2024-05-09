@@ -10,3 +10,4 @@ Added text locally
 
 Working on new branch (nb)
 
+Working on the conflicts
